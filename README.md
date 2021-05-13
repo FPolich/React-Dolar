@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+//////
+
+Usar sobre los dos proyectos: 
+npm install
+npm install pg --save
+npm install express --save
+
+Se crea una base de datos Postgres. Luego se ejecuta la carpeta 'expres' para generar el localhost para conectar a la base de datos Postgres, por último 'npm start' en el proyecto React para comenzar a utilizar el codigo.
