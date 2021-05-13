@@ -1,0 +1,2 @@
+(this.webpackJsonpdolarnuevo=this.webpackJsonpdolarnuevo||[]).push([[0],{39:function(e,t,s){"use strict";s.r(t);var n=s(2),c=s.n(n),r=s(13),o=s.n(r),a=s(3),u=(s(14),s(15),s(0));var j=function(){var e=Object(n.useState)(""),t=Object(a.a)(e,2),s=t[0];return t[1],Object(u.jsxs)("div",{children:[Object(u.jsxs)("h3",{children:["Ingrese su busqueda: ",s]}),Object(u.jsx)("axiosComp",{consulta:s})]})};o.a.render(Object(u.jsx)(c.a.StrictMode,{children:Object(u.jsx)(j,{})}),document.getElementById("root"))}},[[39,1,2]]]);
+//# sourceMappingURL=main.01c8274c.chunk.js.map
